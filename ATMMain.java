@@ -114,6 +114,7 @@ public class ATMMain {
                                 System.out.println("|              WONG SUCCES              |");
                                 System.out.println("=========================================");
                                 atmMenyala = false; 
+                                break;
                             default:
                                 System.out.println(">> Pilihan tidak valid! Silakan coba lagi. <<");
                         }
